@@ -11,7 +11,7 @@ flutter run
 ```
 ## ScreenShots
 
-Gradient for Page | Gradient for AppBar | Gradient for Text
+Login Page | Signup Page
 --- | ---
 
 ![Flutter login ui](./assets/images/login_image.jpg?raw=true "Optional Title") | ![Flutter signup ui](./assets/images/signup_image.jpg?raw=true "Optional Title")
@@ -24,6 +24,5 @@ Gradient for Page | Gradient for AppBar | Gradient for Text
 ## Links
 
 * [Website](https://phloxcompany.com)
-* [Youtube channel](https://www.youtube.com/channel/UC6sTNoJi_G_O5lNzc6JgLew)
-* [Twitter](https://twitter.com/phloxcompany)
+* [Youtube channel](https://www.youtube.com)
 * [Instagram](https://instagram.com/phloxcompany)

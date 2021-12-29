@@ -1,7 +1,5 @@
 ## Flutter Beautiful Login And Signup Page UI Design
 
-This repo is our repo in github , follow us ❤.
-
 ### cover
 ![Flutter Beautiful Login And Signup Page Cover](./assets/images/cover.jpg?raw=true "Optional Title")
 

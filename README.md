@@ -13,7 +13,6 @@ flutter run
 
 Login Page | Signup Page
 --- | ---
-
 ![Flutter login ui](./assets/images/login_image.jpg?raw=true "Optional Title") | ![Flutter signup ui](./assets/images/signup_image.jpg?raw=true "Optional Title")
 
 

@@ -32,7 +32,7 @@ class _SingUpPageState extends State<SingUpPage> {
                 height: 34,
               ),
               const Text(
-                'Sing up',
+                'Sign up',
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 28,
@@ -104,7 +104,7 @@ class _SingUpPageState extends State<SingUpPage> {
                   shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(8)),
                   child: const Text(
-                    'Sing up',
+                    'Sign up',
                     style: TextStyle(color: Colors.white, fontSize: 16),
                   ),
                   onPressed: () {},

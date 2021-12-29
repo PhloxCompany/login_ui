@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'samim',
         primarySwatch: Colors.blue,
       ),
+      debugShowCheckedModeBanner: false,
       home: const LoginUiPage(),
     );
   }

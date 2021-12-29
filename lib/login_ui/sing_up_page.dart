@@ -110,6 +110,9 @@ class _SingUpPageState extends State<SingUpPage> {
                   onPressed: () {},
                 ),
               ),
+              const SizedBox(
+                height: 50,
+              ),
             ],
           ),
         ),
